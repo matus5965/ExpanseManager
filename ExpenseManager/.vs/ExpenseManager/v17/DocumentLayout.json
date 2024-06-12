@@ -1,0 +1,319 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA60695-5757-4773-B41A-087BF59046CF}|ExpenseManager\\ExpenseManager.csproj|c:\\users\\matus\\onedrive\\desktop\\school\\pv178-cs\\project\\expensemanager\\expensemanager\\sqlitecom\\sqlitedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA60695-5757-4773-B41A-087BF59046CF}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\sqlitecom\\sqlitedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA60695-5757-4773-B41A-087BF59046CF}|ExpenseManager\\ExpenseManager.csproj|C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\expensemanager\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA60695-5757-4773-B41A-087BF59046CF}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA60695-5757-4773-B41A-087BF59046CF}|ExpenseManager\\ExpenseManager.csproj|C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\expensemanager\\utils\\jsonutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA60695-5757-4773-B41A-087BF59046CF}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\utils\\jsonutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA60695-5757-4773-B41A-087BF59046CF}|ExpenseManager\\ExpenseManager.csproj|C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\expensemanager\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FA60695-5757-4773-B41A-087BF59046CF}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA60695-5757-4773-B41A-087BF59046CF}|ExpenseManager\\ExpenseManager.csproj|C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\expensemanager\\forms\\transactionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA60695-5757-4773-B41A-087BF59046CF}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\forms\\transactionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA60695-5757-4773-B41A-087BF59046CF}|ExpenseManager\\ExpenseManager.csproj|C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\expensemanager\\forms\\transactionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FA60695-5757-4773-B41A-087BF59046CF}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\forms\\transactionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA60695-5757-4773-B41A-087BF59046CF}|ExpenseManager\\ExpenseManager.csproj|C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\expensemanager\\utils\\currencyutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA60695-5757-4773-B41A-087BF59046CF}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\utils\\currencyutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA60695-5757-4773-B41A-087BF59046CF}|ExpenseManager\\ExpenseManager.csproj|C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\expensemanager\\forms\\chartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA60695-5757-4773-B41A-087BF59046CF}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\forms\\chartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA60695-5757-4773-B41A-087BF59046CF}|ExpenseManager\\ExpenseManager.csproj|C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\expensemanager\\forms\\chartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FA60695-5757-4773-B41A-087BF59046CF}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\forms\\chartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA60695-5757-4773-B41A-087BF59046CF}|ExpenseManager\\ExpenseManager.csproj|C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\expensemanager\\utils\\passwordutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA60695-5757-4773-B41A-087BF59046CF}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\utils\\passwordutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA60695-5757-4773-B41A-087BF59046CF}|ExpenseManager\\ExpenseManager.csproj|C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\expensemanager\\design\\setting.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{0FA60695-5757-4773-B41A-087BF59046CF}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\design\\setting.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA60695-5757-4773-B41A-087BF59046CF}|ExpenseManager\\ExpenseManager.csproj|C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\expensemanager\\design\\refresh.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{0FA60695-5757-4773-B41A-087BF59046CF}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\design\\refresh.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA60695-5757-4773-B41A-087BF59046CF}|ExpenseManager\\ExpenseManager.csproj|C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\expensemanager\\datamodels\\usercredentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA60695-5757-4773-B41A-087BF59046CF}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\datamodels\\usercredentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA60695-5757-4773-B41A-087BF59046CF}|ExpenseManager\\ExpenseManager.csproj|C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\expensemanager\\datamodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA60695-5757-4773-B41A-087BF59046CF}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\datamodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA60695-5757-4773-B41A-087BF59046CF}|ExpenseManager\\ExpenseManager.csproj|C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\expensemanager\\datamodels\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA60695-5757-4773-B41A-087BF59046CF}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\datamodels\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA60695-5757-4773-B41A-087BF59046CF}|ExpenseManager\\ExpenseManager.csproj|C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\expensemanager\\datamodels\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA60695-5757-4773-B41A-087BF59046CF}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\datamodels\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA60695-5757-4773-B41A-087BF59046CF}|ExpenseManager\\ExpenseManager.csproj|C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\expensemanager\\datamodels\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA60695-5757-4773-B41A-087BF59046CF}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\datamodels\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA60695-5757-4773-B41A-087BF59046CF}|ExpenseManager\\ExpenseManager.csproj|C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\expensemanager\\forms\\controls\\transactioncontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FA60695-5757-4773-B41A-087BF59046CF}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\forms\\controls\\transactioncontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA60695-5757-4773-B41A-087BF59046CF}|ExpenseManager\\ExpenseManager.csproj|C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\expensemanager\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA60695-5757-4773-B41A-087BF59046CF}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransactionForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\ExpenseManager\\Forms\\TransactionForm.cs",
+              "RelativeDocumentMoniker": "ExpenseManager\\Forms\\TransactionForm.cs",
+              "ToolTip": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\ExpenseManager\\Forms\\TransactionForm.cs [Design]",
+              "RelativeToolTip": "ExpenseManager\\Forms\\TransactionForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:07:49.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\ExpenseManager\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "ExpenseManager\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\ExpenseManager\\Forms\\MainForm.cs [Design]",
+              "RelativeToolTip": "ExpenseManager\\Forms\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T21:34:22.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\ExpenseManager\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "ExpenseManager\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\ExpenseManager\\Forms\\MainForm.cs",
+              "RelativeToolTip": "ExpenseManager\\Forms\\MainForm.cs",
+              "ViewState": "AQIAAAcBAAAAAAAAAAAAAJAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T21:46:25.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransactionForm.cs",
+              "DocumentMoniker": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\ExpenseManager\\Forms\\TransactionForm.cs",
+              "RelativeDocumentMoniker": "ExpenseManager\\Forms\\TransactionForm.cs",
+              "ToolTip": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\ExpenseManager\\Forms\\TransactionForm.cs",
+              "RelativeToolTip": "ExpenseManager\\Forms\\TransactionForm.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T21:46:36.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JSONUtils.cs",
+              "DocumentMoniker": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\ExpenseManager\\Utils\\JSONUtils.cs",
+              "RelativeDocumentMoniker": "ExpenseManager\\Utils\\JSONUtils.cs",
+              "ToolTip": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\ExpenseManager\\Utils\\JSONUtils.cs",
+              "RelativeToolTip": "ExpenseManager\\Utils\\JSONUtils.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T21:47:01.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SqliteDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\ExpenseManager\\SqliteCom\\SqliteDataAccess.cs",
+              "RelativeDocumentMoniker": "ExpenseManager\\SqliteCom\\SqliteDataAccess.cs",
+              "ToolTip": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\ExpenseManager\\SqliteCom\\SqliteDataAccess.cs",
+              "RelativeToolTip": "ExpenseManager\\SqliteCom\\SqliteDataAccess.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAD8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:05:08.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CurrencyUtils.cs",
+              "DocumentMoniker": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\ExpenseManager\\Utils\\CurrencyUtils.cs",
+              "RelativeDocumentMoniker": "ExpenseManager\\Utils\\CurrencyUtils.cs",
+              "ToolTip": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\ExpenseManager\\Utils\\CurrencyUtils.cs",
+              "RelativeToolTip": "ExpenseManager\\Utils\\CurrencyUtils.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:05:43.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChartForm.cs",
+              "DocumentMoniker": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\ExpenseManager\\Forms\\ChartForm.cs",
+              "RelativeDocumentMoniker": "ExpenseManager\\Forms\\ChartForm.cs",
+              "ToolTip": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\ExpenseManager\\Forms\\ChartForm.cs",
+              "RelativeToolTip": "ExpenseManager\\Forms\\ChartForm.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAAwJYAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T21:41:29.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChartForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\ExpenseManager\\Forms\\ChartForm.cs",
+              "RelativeDocumentMoniker": "ExpenseManager\\Forms\\ChartForm.cs",
+              "ToolTip": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\ExpenseManager\\Forms\\ChartForm.cs [Design]",
+              "RelativeToolTip": "ExpenseManager\\Forms\\ChartForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T21:41:22.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PasswordUtils.cs",
+              "DocumentMoniker": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\ExpenseManager\\Utils\\PasswordUtils.cs",
+              "RelativeDocumentMoniker": "ExpenseManager\\Utils\\PasswordUtils.cs",
+              "ToolTip": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\ExpenseManager\\Utils\\PasswordUtils.cs",
+              "RelativeToolTip": "ExpenseManager\\Utils\\PasswordUtils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:05:23.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "setting.png - PNG [2048x2048, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\ExpenseManager\\Design\\setting.png",
+              "RelativeDocumentMoniker": "ExpenseManager\\Design\\setting.png",
+              "ToolTip": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\ExpenseManager\\Design\\setting.png - PNG [2048x2048, 32 bit, PNG]",
+              "RelativeToolTip": "ExpenseManager\\Design\\setting.png - PNG [2048x2048, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-06-11T15:04:59.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "refresh.png - PNG [2400x2400, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\ExpenseManager\\Design\\refresh.png",
+              "RelativeDocumentMoniker": "ExpenseManager\\Design\\refresh.png",
+              "ToolTip": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\ExpenseManager\\Design\\refresh.png - PNG [2400x2400, 32 bit, PNG]",
+              "RelativeToolTip": "ExpenseManager\\Design\\refresh.png - PNG [2400x2400, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-06-11T15:04:58.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserCredentials.cs",
+              "DocumentMoniker": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\ExpenseManager\\DataModels\\UserCredentials.cs",
+              "RelativeDocumentMoniker": "ExpenseManager\\DataModels\\UserCredentials.cs",
+              "ToolTip": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\ExpenseManager\\DataModels\\UserCredentials.cs",
+              "RelativeToolTip": "ExpenseManager\\DataModels\\UserCredentials.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:04:52.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\ExpenseManager\\DataModels\\User.cs",
+              "RelativeDocumentMoniker": "ExpenseManager\\DataModels\\User.cs",
+              "ToolTip": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\ExpenseManager\\DataModels\\User.cs",
+              "RelativeToolTip": "ExpenseManager\\DataModels\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:04:51.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\ExpenseManager\\DataModels\\Transaction.cs",
+              "RelativeDocumentMoniker": "ExpenseManager\\DataModels\\Transaction.cs",
+              "ToolTip": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\ExpenseManager\\DataModels\\Transaction.cs",
+              "RelativeToolTip": "ExpenseManager\\DataModels\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:04:39.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\ExpenseManager\\DataModels\\Item.cs",
+              "RelativeDocumentMoniker": "ExpenseManager\\DataModels\\Item.cs",
+              "ToolTip": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\ExpenseManager\\DataModels\\Item.cs",
+              "RelativeToolTip": "ExpenseManager\\DataModels\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:04:38.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\ExpenseManager\\DataModels\\Category.cs",
+              "RelativeDocumentMoniker": "ExpenseManager\\DataModels\\Category.cs",
+              "ToolTip": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\ExpenseManager\\DataModels\\Category.cs",
+              "RelativeToolTip": "ExpenseManager\\DataModels\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:04:37.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TransactionControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\ExpenseManager\\Forms\\Controls\\TransactionControl.cs",
+              "RelativeDocumentMoniker": "ExpenseManager\\Forms\\Controls\\TransactionControl.cs",
+              "ToolTip": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\ExpenseManager\\Forms\\Controls\\TransactionControl.cs [Design]",
+              "RelativeToolTip": "ExpenseManager\\Forms\\Controls\\TransactionControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T21:46:06.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\ExpenseManager\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "ExpenseManager\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\matus\\OneDrive\\Desktop\\school\\pv178-cs\\project\\ExpenseManager\\ExpenseManager\\Forms\\LoginForm.cs",
+              "RelativeToolTip": "ExpenseManager\\Forms\\LoginForm.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T21:46:18.602Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
